@@ -1,0 +1,16 @@
+# Environment variables
+WORKSPACE_ID=e891f203-0ae7-42f5-9adc-8d6481e11499
+ASSISTANT_USERNAME=3b3e1368-37b4-4bf6-a49c-7dfa52973021
+ASSISTANT_PASSWORD=KQJB8L2yqptX
+
+###################################################
+# Optional params, delete any which are not used! #
+###################################################
+
+# Params to enable Text to Speech
+TEXT_TO_SPEECH_USERNAME=db9f2c92-073c-4014-9842-73f5bf1ad269
+TEXT_TO_SPEECH_PASSWORD=Pv7RL8PRrGBT
+
+# Params to enable Speech to Text
+SPEECH_TO_TEXT_USERNAME=391e7fdb-74c8-484d-88c9-55909b32f5df
+SPEECH_TO_TEXT_PASSWORD=84kuu0Aya8oA
