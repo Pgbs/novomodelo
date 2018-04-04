@@ -1,0 +1,17 @@
+{
+  "ServiceId": "com.ibm.cloudoe.orion.client.deploy",
+  "Params": {
+    "Target": {
+      "Url": "https://api.ng.bluemix.net",
+      "Org": "fanese.relacoesetnicos@gmail.com",
+      "Space": "dev"
+    },
+    "Name": "relacoesetnicas",
+    "Instrumentation": {
+      "host": "relacoesetnicas-20180402170915591",
+      "domain": "mybluemix.net"
+    }
+  },
+  "Path": "manifest.yml",
+  "Type": "Cloud Foundry"
+}
